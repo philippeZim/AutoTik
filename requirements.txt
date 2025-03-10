@@ -1,0 +1,5 @@
+kokoro
+ipython
+soundfile
+numpy
+pytubefix
