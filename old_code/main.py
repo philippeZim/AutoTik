@@ -7,7 +7,7 @@ import numpy as np
 pipeline = KPipeline(lang_code='a')  # American English
 
 # Your text
-with open("input.txt", "r", encoding="utf-8") as f:
+with open("../input.txt", "r", encoding="utf-8") as f:
     text = f.read()
 
 # Split text into lines (assuming each \n+ is a segment)
